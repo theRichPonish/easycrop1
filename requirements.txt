@@ -78,7 +78,7 @@ pyrsistent==0.19.3
 python-dateutil==2.8.2
 python-json-logger==2.0.4
 pytz==2022.7
-pywin32==305
+pypiwin32==305
 pywinpty==2.0.9
 PyYAML==6.0
 pyzmq==24.0.1
